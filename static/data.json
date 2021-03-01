@@ -1,0 +1,16 @@
+{
+  "sensors": [
+    {
+      "name": "Sensor 1",
+      "temperature": "38.5"
+    },
+    {
+      "name": "Sensor 2",
+      "temperature": "40"
+    },
+    {
+      "name": "Sensor 3",
+      "temperature": "60.3"
+    }
+  ]
+}

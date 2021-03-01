@@ -1,0 +1,5 @@
+<!doctype html>
+<title>Heizungstemperatur</title>
+{% for sensor in data['sensors'] %}
+    <h1>Temperatur {{ sensor['name']}}: {{ sensor['temperature'] }}</h1>
+{% endfor %}
